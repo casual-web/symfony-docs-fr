@@ -278,7 +278,7 @@ Pour tirer parti de cette fonctionnalité, il faut mapper le nom de la constant
 
 .. note::
 
-    Cela ne fonctionne pas la configuration Yaml. Si vous utilisez Yaml, vous
+    Cela ne fonctionne pas avec la configuration Yaml. Si vous utilisez Yaml, vous
     pouvez importer un fichier XML pour tirer parti de cette fonctionnalité:
 
     .. configuration-block::
